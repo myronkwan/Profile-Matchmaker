@@ -1,0 +1,26 @@
+Name: 
+
+What is the most attractive hair color to you?
+1. Black
+2. Blonde
+3. Brown
+4. Red
+5. Other
+
+What is your favorite genre of movies?
+1. Comedy
+2. Action
+3. Horror
+4. Drama
+5. Adventure
+
+What is your favorite genre of music?
+1. Rap/Hiphop
+2. EDM
+3. Rock/Metal
+4. Country
+5. Pop
+
+How interested are you in video games on a scale from 1-5: 
+
+How interested are you in sports on a scale from 1-5: 
